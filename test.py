@@ -7,4 +7,4 @@ print("Yana yangi qator")
 print("Yana yangi qator")
 print("Yana yangi qator")
 print("Yana yangi qator")
-
+1212
